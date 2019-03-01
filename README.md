@@ -18,3 +18,16 @@ Install Babel presets (adds local dependencies to project)
 
 Compile Babel
     babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch   
+
+    Webpack
+    install babel and live-server locally
+    npm install babel-cli@6.24.1
+    npm install live-server
+
+    update packege.json with scripts file
+
+    run yarn tasks
+    yarn serve
+    yarn run build-babel
+
+    yarn run build
