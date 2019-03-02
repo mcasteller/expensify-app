@@ -9,6 +9,10 @@ Indecision app is a React web application created to review key features and bes
 
 # Some interesting topics you may find:
 
+Webpack
+SASS
+Styles Reset
+
 Babel
     presets: env, react
 
