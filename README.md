@@ -19,8 +19,14 @@ yarn run dev-server
 
 ## Some interesting topics you may find:
 
-- React
+- React 
 Babel: presets: env, react
+
+-React router: https://reacttraining.com/react-router/
+
+-Redux
+
+-ES6 object destructing
 
 - Webpack
 
