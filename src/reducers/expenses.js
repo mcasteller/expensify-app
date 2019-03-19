@@ -16,7 +16,7 @@ const expensesReducer = (state = expensesReducerDefaultState, action) => {
             });
         case 'EDIT_EXPENSE':
             return state.map((expense) => {
-                if (expense === action.id) {
+                if (expense.id === action.id) {
                     return { // object spread operator
                         ...expense, 
                         ...action.updates // override pass down properties

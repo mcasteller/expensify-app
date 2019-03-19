@@ -27,4 +27,6 @@ yarn run dev-server
 
 - SASS
 
+- Jest testing - it gets installed on package.json under script category. (yarn test or yarn test -- --watch to watch for changes)
+
 *This project is part of Udemy React training course provided by Andrew Mead.* 
